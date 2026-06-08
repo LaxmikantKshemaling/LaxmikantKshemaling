@@ -1,13 +1,21 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>Hi, I'm **Laxmikant Aloji**, a **Software Engineer at Pravarthana Technologies Pvt. Ltd.** with experience in both **Frontend and Backend Development**. I specialize in **Java Full Stack Development**, working with **Java, Spring Boot, React JS, MySQL, REST APIs, HTML, CSS, JavaScript, and Bootstrap**.<br><br>Currently, I contribute to enterprise applications, including Banking and HR Management systems, building scalable, responsive, and user-friendly solutions. Passionate about continuous learning, problem-solving, and creating impactful software.<br>
+
+## 👨‍💻 About Me
+
+Hi, I'm **Laxmikant Aloji**, a **Software Engineer at Pravarthana Technologies Pvt. Ltd.** with hands-on experience in **Java Full Stack Development**. I have worked on both **Frontend and Backend Development**, contributing to enterprise-level applications from design to deployment.
+
+My expertise includes **Java, Spring Boot, Spring Security, Hibernate, JPA, React JS, REST APIs, MySQL, HTML, CSS, JavaScript, and Bootstrap**. I have experience building responsive user interfaces, developing secure and scalable backend services, designing databases, and integrating end-to-end application workflows.
+
+Currently, I contribute to **Banking Application Modernization** and **HR Management System** projects, where I work across the full software development lifecycle to deliver high-performance, user-friendly, and business-focused solutions.
+
+I am passionate about continuous learning, problem-solving, and leveraging modern technologies to build impactful software that creates real business value. My goal is to grow as a Full Stack Engineer and contribute to innovative, scalable, and reliable applications.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/laxmikant-kshemaling-aloji-736200266/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laxmikantaloji77@gmail.com) 
 
-# 💻 Tech Stack:
-# 💻 Tech Stack:
 
+# 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
